@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1032001468064",
+    "firebase_url": "https://denarius-11789.firebaseio.com",
+    "project_id": "denarius-11789",
+    "storage_bucket": "denarius-11789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032001468064:android:860847b753fda0b8",
+        "android_client_info": {
+          "package_name": "com.potato.denarius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032001468064-ci6kipg0a9m44tudi000dapf1cigspuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0ue4hS8dn3phcnlqjnzfXzF6IoRYKbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

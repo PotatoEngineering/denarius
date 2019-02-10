@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Denarius</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Denarius</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="msg_anonymous_success">Logged in anonymously</string>
+    <string name="msg_anonymous_fail">Failed to login anonymously</string>
+
+    <string name="login_anonymous_label">Anonymous</string>
+    <string name="login_not_logged_in_label">Not Logged In</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_sign_in">Sign in</string>
+</resources>
